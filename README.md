@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Global Weather App
 
 Welcome to the Global Weather App! This application provides weather information for locations around the world. It's built using React and Vite, and it fetches data from a weather API.
@@ -18,3 +19,6 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+=======
+# myWeatherApp
+>>>>>>> 820dc3561ad830075d3ea7c29c007ef5a90478a9
